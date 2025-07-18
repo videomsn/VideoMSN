@@ -1,18 +1,18 @@
-# SIFAR-MSN
+# VideoMSN
 
-This repository contains a PyTorch implementation of SIFAR-MSN.
+This repository contains a PyTorch implementation of VideoMSN.
 
-![sifar image](./sifar_msn_model.png)
+![videomsn](./main_model.pdf)
 
 # Usage
 
 First, clone the repository locally:
 ```
-git clone <git_repo>
+git clone https://github.com/videomsn/VideoMSN.git
 ```
 ## Requirements
 ```
-conda env create --name sifar_msn --file sifar_msn.yml
+conda env create --name sifar_msn --file videomsn.yml
 ```
 
 <!-- To load video input, you need to install the [PyAV package](https://pyav.org/docs/develop/overview/installation.htmlgit). -->
@@ -119,3 +119,6 @@ To evaluate a model, add '--eval' to a training script and specify the path to t
 This repository is released under the appache-2.0. license as found in the [LICENSE](LICENSE) file.
 
 -->
+
+
+## VideoMSN fine-tuning repo: https://github.com/videomsn/VideoMSN_FINETUNING
