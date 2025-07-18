@@ -221,4 +221,3 @@ dependencies:
       - traitlets==5.14.3
       - wcwidth==0.2.13
       - yacs==0.1.8
-prefix: /home/ritwikcfd/miniconda3/envs/sifar_msn
