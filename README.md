@@ -2,7 +2,7 @@
 
 This repository contains a PyTorch implementation of VideoMSN.
 
-![videomsn](./main_model.pdf)
+![videomsn](./main_model.png)
 
 # Usage
 
