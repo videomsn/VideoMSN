@@ -1,0 +1,1 @@
+Try increasing data augmentations in video_dataset_aug by incorporating colour jitter from MSN codebase.
